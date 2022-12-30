@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://amoelcodigo.com/wp-content/uploads/2020/07/Dise%C3%B1o-sin-t%C3%ADtulo-4-1024x576.png" width="30%">
+  <img src="https://amoelcodigo.com/wp-content/uploads/2020/07/Dise%C3%B1o-sin-t%C3%ADtulo-4-1024x576.png" width="50%">
   <h1 style="border-bottom:none">Spring Boot, JWT e Spring Security</h1>
   <p>Author: José Ricardo</p>
   
